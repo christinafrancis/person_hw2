@@ -31,6 +31,7 @@
 		CF00E66317DDB1A900DDA9AE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CF00E66617DDB1A900DDA9AE /* person_hw2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "person_hw2-Prefix.pch"; sourceTree = "<group>"; };
 		CF00E66717DDB1A900DDA9AE /* person_hw2.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = person_hw2.1; sourceTree = "<group>"; };
+		CF00E67317DDC17A00DDA9AE /* person_if.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = person_if.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 		CF00E66217DDB1A900DDA9AE /* person_hw2 */ = {
 			isa = PBXGroup;
 			children = (
+				CF00E67317DDC17A00DDA9AE /* person_if.h */,
 				CF00E66317DDB1A900DDA9AE /* main.m */,
 				CF00E66717DDB1A900DDA9AE /* person_hw2.1 */,
 				CF00E66517DDB1A900DDA9AE /* Supporting Files */,
