@@ -77,6 +77,8 @@ int main(int argc, const char * argv[])
             
         }
         
+        
+        // HELLO !!!!!!!
         //NSLog(@"%s",@encode(NSString *));
         
         for ( i in Person_array){
